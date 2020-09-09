@@ -40,11 +40,16 @@
     "zprint-clj": "~0.8.0"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.35",
+    "@emotion/styled": "^10.0.27",
     "create-react-class": "~15.6.3",
+    "emotion-theming": "^10.0.27",
+    "leaflet": "^1.7.1",
     "react": "~16.13.1",
     "react-dom": "~16.13.1",
     "react-grid-layout": "^0.16.6",
     "react-icons": "^2.2.7",
+    "react-leaflet": "^2.7.0",
     "react-refresh": "0.8.1",
     "reakit": "^0.11.1"
   }

@@ -8,7 +8,7 @@
 (defnc MainRenderer [props]
   (let [{:keys [page]} (use-sub props :router)]
     (case page
-      "home" ($ Home)
+      "home" ($ Home {& props})
       (d/div "404"))))
 
 (def Main (with-keechma MainRenderer))

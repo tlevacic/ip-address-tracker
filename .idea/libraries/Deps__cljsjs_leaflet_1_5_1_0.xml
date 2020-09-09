@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Deps: cljsjs/leaflet:1.5.1-0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cljsjs/leaflet/1.5.1-0/leaflet-1.5.1-0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
